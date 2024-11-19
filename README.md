@@ -1,6 +1,5 @@
 # Documentação dos Exercícios de Introdução ao JavaScript
 
-## Exercício 1: Manipulação de Arrays
 
 Neste exercício, eu manipulei um array usando métodos comuns de arrays, como `push()`, `pop()` e `indexOf()`.
 
